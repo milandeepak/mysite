@@ -1,0 +1,11 @@
+.bg{
+    background-color: beige;
+}
+
+.coming-soon{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: rgb(186, 32, 32);
+    text-align: center;
+    margin-top: 250px;
+}
